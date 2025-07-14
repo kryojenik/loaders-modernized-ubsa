@@ -1,17 +1,18 @@
 {
-    "name": "loaders-modernized-addon",
+    "name": "loaders-modernized-ubsa",
     "version": "1.0.0",
-    "title": "Loaders Modernized: Addon",
-    "description": "Add Modern Loaders to <addon>",
+    "title": "Loaders Modernized: Ultimate Belts Space Age",
+    "description": "Add Modern Loader tiers for Ultimate Belts Space Age",
     "author": "kryojenik",
-    "contact": "https://github.com/kryojenik/loaders-modernized",
-    "homepage": "https://github.com/kryojenik/loaders-modernized",
-    "source": "https://github.com/kryojenik/loaders-modernized",
+    "contact": "https://github.com/kryojenik/loaders-modernized-ubsa",
+    "homepage": "https://github.com/kryojenik/loaders-modernized-ubsa",
+    "source": "https://github.com/kryojenik/loaders-modernized-ubsa",
     "factorio_version": "2.0",
     "dependencies": [
         "base >= 2.0.55",
         "flib >= 0.16.2",
-        "loaders-modernized >= 0.8.15"
+        "loaders-modernized >= 0.8.15",
+        "UltimateBeltsSpaceAge"
     ],
     "package": {
         "git_publish_branch": "main",
