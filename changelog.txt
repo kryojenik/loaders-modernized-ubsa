@@ -3,6 +3,8 @@ Version: 1.0.2
 Date: ????
   Bugfixes:
     - Fix recipe ordering
+    - Update dependencies
+    - Update to work with Loaders Modernized 1.0.5
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2025-08-04
