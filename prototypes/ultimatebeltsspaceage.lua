@@ -1,7 +1,6 @@
 -- Ultimate Belts Space Age!
 ---@type table<string, LMLoaderTemplate>
-local templates = {}
-templates.loaders = {
+local loaders = {
   ["ultra-fast-"] = {
     --Ultimate belts move on passed express and ignore Space Age! Turbo belts
     next_upgrade = "extreme-fast-mdrn-loader",
@@ -107,4 +106,4 @@ templates.loaders = {
   },
 }
 
-MdrnLoaders.make_modern_loaders(templates)
+MdrnLoaders.add_loaders(loaders)
