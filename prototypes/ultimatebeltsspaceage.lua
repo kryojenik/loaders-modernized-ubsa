@@ -4,7 +4,7 @@ local loaders = {
   ["ultra-fast-"] = {
     --Ultimate belts move on passed express and ignore Space Age! Turbo belts
     next_upgrade = "extreme-fast-mdrn-loader",
-    previous_prefix = "express-",
+    upgrade_from_prefix = "express-",
     tint = util.color("00ac08d1"),
     order = "05",
     prerequisite_techs = {
