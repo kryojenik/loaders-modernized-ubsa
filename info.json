@@ -1,6 +1,6 @@
 {
     "name": "loaders-modernized-ubsa",
-    "version": "1.1.0",
+    "version": "2.0.0",
     "title": "Loaders Modernized: Ultimate Belts Space Age",
     "description": "Add Modern Loader tiers for Ultimate Belts Space Age",
     "author": "kryojenik",
@@ -9,7 +9,7 @@
     "source": "https://github.com/kryojenik/loaders-modernized-ubsa",
     "factorio_version": "2.0",
     "dependencies": [
-        "loaders-modernized >= 1.1.0",
+        "loaders-modernized >= 2.0.0",
         "UltimateBeltsSpaceAge"
     ],
     "package": {
